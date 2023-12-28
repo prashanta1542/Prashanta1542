@@ -1,8 +1,8 @@
 ![logo](supun-new.png)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hi 👋, I'm Prashanta Chowdhury</h1>
-<h3 align="center">A passionate Programmer who</h3>
+<h1>Hi 👋, I'm Prashanta Chowdhury</h1>
+<h3>A passionate Programmer who</h3>
 <p>I'm an artistic web developer who thrives on fresh challenges and seeks innovative ways to enhance development through cutting-edge tech, making the process smoother and more enjoyable. 🛠️</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
