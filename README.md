@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Prashanta Chowdhury</h1>
+<h1 align="center">Hi There👋, I'm Prashanta Chowdhury</h1>
 <h3 align="center">I am an artistic fashionable web developer , who always cherished to meet new challanges and find out an way of path to reveal new thoughts and technology to make the developing phase more ease and comfort.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashanta1542&label=Profile%20views&color=0e75b6&style=flat" alt="prashanta1542" /> </p>
@@ -19,13 +19,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/prashanta-chowdhury-469319221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/prashanta-chowdhury-469319221" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23037927/prashanta-chwodhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23037927/prashanta-chwodhury" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prashanta-chowdhury-469319221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashanta-chowdhury-469319221/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23037927/prashanta-chwodhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23037927/prashanta-chwodhury" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/invite/d3yhcwn2mhs9wcyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/invite/d3yhcwn2mhs9wcyz" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/proshantochowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/proshantochowdhury" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/prashantachowdh2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/prashantachowdh2" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/prashanta1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/prashanta1234" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/prashanta_chowdhury/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/prashanta_chowdhury/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/prashantachowdh2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="profile/prashantachowdh2" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/prashanta1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prashanta1234" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prashanta_chowdhury/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prashanta_chowdhury/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
