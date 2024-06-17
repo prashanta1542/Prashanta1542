@@ -34,6 +34,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashanta1542&show_icons=true&locale=en&layout=compact" alt="prashanta1542" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashanta1542&show_icons=true&locale=en" alt="prashanta1542" /></p>
-![New Microsoft PowerPoint Presentation](https://github.com/prashanta1542/Prashanta1542/assets/70958375/7e01dfd2-95b3-4e38-8121-ea771a62b47e)
+<img src="https://github.com/prashanta1542/Prashanta1542/assets/70958375/7e01dfd2-95b3-4e38-8121-ea771a62b47e" alt="Laravel-life-cycle/>
 <p align="center"> Laravel Life Cycle</p>
 
